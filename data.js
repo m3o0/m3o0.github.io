@@ -1,5 +1,16 @@
 // Questions
 var q = [
+    "Hvorfor går i efter aftaler med patientforeninger? De har jo ingen penge.",
+	"Hvad gør i, hvis en af jer forlader teamet undervejs i forløbet?",
+	"Hvad er brugernes problemer, når i snakker med dem?",
+	"Hvorfor fungerer jeres team?",
+	"Hvad er den største udfordring i jeres team?",
+	"I siger, at i vil mindske uligheden i sundhedsvæsnet. Hvordan gør i det?",
+    "Hvad data træner i jeres modeller med?",
+    "Hvad er meoo, helt kort fortalt?",
+    "Hvad er en RAG-løsning?",
+    "Hvad er en AI-agent?",
+    "Lad os sige, at jeg lige er blevet diagnosticeret med ADHD, og har downloadet meoo. Hvad skal der så ske?",
     "Hvad forstår du, som andre ikke gør?",
     "Hvorfor vil du få succes?",
     "Hvor stor en mulighed er der?",
