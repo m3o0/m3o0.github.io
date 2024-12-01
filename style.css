@@ -17,6 +17,25 @@ a:hover {color: #336699; text-decoration: underline;}
 	text-align: center;
 	line-height: 84px;
 }
+
+#controls {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#nextButton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#nextButton:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
 #timer {
 	width: 120px;
 	margin: 0 auto 50px auto; padding: 4px 0;
