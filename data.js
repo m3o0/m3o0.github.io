@@ -6,6 +6,8 @@ var q = [
 	"Hvorfor fungerer jeres team?",
 	"Hvad er den største udfordring i jeres team?",
 	"I siger, at i vil mindske uligheden i sundhedsvæsnet. Hvordan gør i det?",
+	"Hvad er det unikke ved jer?",
+	"Hvad er det unikke ved jeres teknologi?",
     "Hvad data træner i jeres modeller med?",
     "Hvad er meoo, helt kort fortalt?",
     "Hvad er en RAG-løsning?",
