@@ -4,6 +4,8 @@ var q = [
 	"Hvad gør i, hvis en af jer forlader teamet undervejs i forløbet?",
 	"Hvad er brugernes problemer, når i snakker med dem?",
 	"Hvorfor fungerer jeres team?",
+    "Hvad er det innovative ved jer?",
+    "Alle kan bruge AI, hvad gør jer unikke?",
 	"Hvad er den største udfordring i jeres team?",
 	"I siger, at i vil mindske uligheden i sundhedsvæsnet. Hvordan gør i det?",
 	"Hvad er det unikke ved jer?",
